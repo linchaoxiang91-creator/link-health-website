@@ -17,12 +17,24 @@
 - 埃尔朗根大学医院内科中心：Wikimedia Commons `File:Erlangen_Internistisches_Zentrum_001.JPG`；Janericloebe / CC BY 3.0。用于 Schett CAR-T 机构关联的封面；非实验现场。
 - 弗赖堡大学医院院区：`File:Universitätsklinikum Freiburg (2025)-4.jpg`；Sneeuwvlakte / CC BY-SA 4.0。用于 Ullrich CAR-NK 机构关联的封面；非实验现场。
 - 真实肠道黏膜组织病理：`File:Histology of a normal colonic mucosal epithelium.jpg`；CC0。
-- 小肠绒毛真实组织病理：`File:Cross-section histology of small intestinal villi of the terminal ileum.jpg`；CC0。
-- E. coli 扫描电镜：`File:E. coli Bacteria (7316101966).jpg`；NIAID / Public domain。只能视为一种细菌的通用电镜照片，不代表研究中特定菌群的实测结果。
+- 结肠黏膜下淋巴组织：`File:Histology of subepithelial lymphoid aggregate of the colon.jpg`；Mikael Häggström / CC0。用于 A-FMT 主题通用组织病理视图，不代表顺天堂研究原始切片。
+- 真实微生物实验室：`File:Petridish.jpg`；Tanzi Afruza / CC0。用于 SER-155 主题，非该研究生产或临床实验现场。
+- CDC 肠道细菌显微照片：`File:BacteroidesFragilis Gram.jpg`、`File:Bacteroides thetaiotaomicron.png`；CDC / Public domain。通用菌株影像，不代表某篇论文中的具体实验菌株。
+- 医疗检查真实设备场景：`File:MRI machine with patient (23423505123).jpg`；Public domain。不得标为合作医院现场。
+- 内镜室真实摄影：`File:Endoscopy room.jpg`；Gilo1969 / CC BY 2.0。不得标为 LINK HEALTH 合作机构。
 - 人类卵泡显微摄影：`File:Human ovarian follicle.jpg`；Jpogi / public domain。
-- IVF 真实实验室：`File:IVF laboratory.jpg`；Zina Kel / CC BY 4.0。
-- 人类受精卵/胚胎显微图：`File:Human embryos (four-cell stage) (27771482412).jpg`；CC BY-SA 2.0。
+- IVF 真实实验室：`File:IVF laboratory.jpg`；摄影者 Galina Fomina / CC BY 4.0（Zina Kel 为上传用户名）。
+- 人类胚胎真实显微图：`File:Human embryos (four-cell stage) (27771482412).jpg`；ZEISS Microscopy / CC BY-SA 2.0。
+- 成熟卵泡真实组织摄影：`File:Graafian follicle of human ovary.jpg`；Ed Uthman / CC BY 2.0。
 - 健康人体 T 细胞扫描电镜：`File:Healthy Human T Cell.jpg`；NIAID / Public domain。
+
+## 旧文章整改检查清单
+- [ ] 核对文章研究团队、疾病、实验对象，确认图片内容相关。
+- [ ] 找到真实照片或真实显微影像，核实作者、授权和年份；不能确认则不发布该图。
+- [ ] 删除装饰性 SVG、AI 合成细胞、卡通图和没有信息量的“示意图”占位框；**真实研究数据图保留**。
+- [ ] 首页轮播、文章封面、栏目卡片和 og:image 使用同一套真实照片，避免首页替换后内页仍显示旧插画。
+- [ ] 不在普通页面显示图片来源/版权备注，集中写入 image-credits.html。
+- [ ] 检查手机端尺寸、图片实际加载、alt 文本和分享预览，确认后才对外声称已上线。
 
 ## 维护约束
 上述规范为编辑与开发流程，不意味着第三方照片可不履行许可条款。新增图片须在版权集中页或对应素材台账登记真实出处，不得在图片下随手加大量来源说明。
